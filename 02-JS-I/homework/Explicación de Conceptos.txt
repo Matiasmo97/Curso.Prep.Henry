@@ -1,0 +1,21 @@
+Explicaciones:
+
+·Variables: Las Variables son contenedores de información, son como cajitas donde podemos
+guardar valores, como numeros, cadenas de texto. Esta información es guardada, para luego
+ser utilizada.
+
+·Strings: Las Strings son variables que guardan una cadena de texto, ejemplo:
+  var string1 = "Esto es una string";
+
+·Funciones (argumentos, `return`): Las Funciones en Javascript son muy importantes, ya que con
+ellas podemos realizar tareas o calcular valores, pero para que funcionen deben constar de dos
+coasas. Primero un "argumento" osea alguna variable con la que vamos a trabajar. Y segundo de 
+un "return" que sirve para retornar el valor de la función.
+
+·Declaraciones 'if': Son utilizadas dentro de las funciones, para declarar sentencias, estas
+pueden ser verdaderas o falsas.
+
+·Valores booleanos (`true`, `false`): Los valores booleanos solo pueden ser dos, 'true' o 
+'false', estos pueden ser utilizados en las declaraciones 'if', para determinar que codigo 
+se ejecutara.
+ 
