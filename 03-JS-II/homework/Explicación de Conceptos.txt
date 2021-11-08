@@ -1,0 +1,15 @@
+Explicación:
+
+·For: Los bucles 'for' son utilizados para recorrer una variable, para que esto suceda debe 
+constar de 3 cosas, primero debemos declarar la variable a recorrer, luego una condición para
+que para que el bucle se siga repitiendo hasta donde nosotros queramos, por ultimo debemos 
+incrementar nuestra variable de la siguiente manera (i++).
+
+·`&&`, `||`, `!`: Operadores Logicos, sirven para combinar expresiones y detectar si son 
+verdaderas o falsas. Tenemos el operador 'AND'(&&) que nos devolvera true si ambas espresiones
+son verdaderas, el 'OR'(||), que determina si una de las expreciones es true, y '!' que nos 
+devolvera el valor booleano opuesto de lo que esta pasando.
+Ejemplo:
+	if (1000 > 100 && 500); 'true'
+	if (500 < 200 || 400); 'false'
+	if (!true); 'false'
